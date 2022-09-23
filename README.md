@@ -1,2 +1,2 @@
-# Terraform_day01
+# Terraform_day_01
 Terraform VPC first day
